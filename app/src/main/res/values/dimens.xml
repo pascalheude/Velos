@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="row1">38dp</dimen>
+    <dimen name="row2">76dp</dimen>
+    <dimen name="row3">116dp</dimen>
+    <dimen name="column1">20dp</dimen>
+    <dimen name="column2">40dp</dimen>
+    <dimen name="column3">60dp</dimen>
+    <dimen name="column5">100dp</dimen>
+</resources>
